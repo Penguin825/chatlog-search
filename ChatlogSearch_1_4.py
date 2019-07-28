@@ -1,5 +1,5 @@
 # This file is part of Chatlog Search
-# Copyright (C) 2019 QueenPengu
+# Copyright (C) 2019 Penguin825
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public Licensse as published by
@@ -50,7 +50,7 @@ def main():
 
 
 def gnu():
-    print("""Chatlog Search v1.4 Copyright (C) 2019 QueenPengu
+    print("""Chatlog Search v1.4 Copyright (C) 2019 Penguin825
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions (see LICENSE.txt for more information).

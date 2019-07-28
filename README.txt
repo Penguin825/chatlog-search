@@ -1,5 +1,5 @@
 Chatlog Search allows the user to search through their minecraft chat logs.
-Copyright (C) 2019 QueenPengu
+Copyright (C) 2019 Penguin825
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
